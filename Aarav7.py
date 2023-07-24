@@ -1,0 +1,16 @@
+# make a programthat turns numbers into a list
+print ("Give us 5 strings and we will turn it in to a list")
+one=raw_input("1st number goes here.  ")
+two=raw_input("put here")
+three=raw_input("put here")
+four=raw_input("put here")
+five=raw_input("put here")
+A_list=(one,two,three,four,five)
+print(A_list)
+
+# print("spin-ach=spenach")
+# print("pine-apple=pinapple")
+# print("to-ma-to=tomto")
+# print("egg-plant=eggplat")
+# print("Aarush skipped another 6 more question")
+# print("Since Aarush skipped questions Score is 0/100")

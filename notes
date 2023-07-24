@@ -1,0 +1,27 @@
+1. What is git?
+
+It's a version control system for developers. It's a system to manage multiple versions of same code by different developers. and help resolve conflicts while merging their code.
+
+
+Aarav's code
+def function_a():
+    print ("Hello, world!")
+
+Sid's code
+def function_a():
+    print ("hello, world!")    
+
+
+There's conflict
+> small h vs capital h. 
+
+Person who is pushing has to resolve conflicts if there are any.
+
+
+2. Repository
+
+directory
+
+3. git add
+4. git commit
+4. git push
