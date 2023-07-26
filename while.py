@@ -2,10 +2,7 @@ start = 0
 print ('Starting helicopter')
 while start <= 10:
     print (start)
-    start = start 
-
-
-     1
+    start = start + 1
 
 print ('Finally I am here')
 

@@ -1,7 +1,7 @@
 # # nested for loop
 # for i in range(1, 6):
 #     # print ("Hello Aarav, I am in outer loop.,", i)
-#     print (i)
+#     print (i)s
 #     for j in range(1, 6):
 #         print (j)
 #         # print ('I am in inner nested loop ', j)
@@ -10,7 +10,7 @@
 # nested for loop
 for i in range(1, 6):
     for j in range(1, 6):
-        print (i, j)
+        print (i, j)        
         if j == 3:
             break
 

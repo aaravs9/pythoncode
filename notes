@@ -25,3 +25,38 @@ directory
 3. git add
 4. git commit
 4. git push
+
+
+
+Step 1
+
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+    Aarav1.py
+    Aarav3.py
+    Aarav4.py
+    Aarav5.py
+    Aarav6.py
+    Aarav7.py
+    Testers.py
+    aarav.py
+    aarav2.py
+    forloop.py
+    forloopwork.py
+    nested.py
+    notes
+    program.py
+    python forloopwork.py
+    q1.py
+    q2.py
+    star.py
+    test.py
+    while.py
+
+
+Step 2
+

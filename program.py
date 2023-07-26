@@ -1,6 +1,6 @@
 
 
-spelling = input('Enter spelling')
+spelling = raw_input('Enter spelling  ')
 
 
 def correct():
